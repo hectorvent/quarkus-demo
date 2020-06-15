@@ -20,7 +20,7 @@ import org.jboss.resteasy.annotations.jaxrs.PathParam;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @Path("/coffee")
 @Produces(MediaType.APPLICATION_JSON)

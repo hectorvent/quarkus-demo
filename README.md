@@ -11,3 +11,10 @@ A small Quarkus demo, that shows how to implement resilient microservices using 
 * Circuit Breaker
 * Metrics
 * Helth checks
+
+## Technologies used:
+
+* **Quarkus**
+* **MariaDB**
+* **Docker**
+* **jaeger**

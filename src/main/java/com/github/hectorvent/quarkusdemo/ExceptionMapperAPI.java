@@ -8,7 +8,7 @@ import javax.ws.rs.ext.Provider;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @Provider
 public class ExceptionMapperAPI implements ExceptionMapper<Exception> {

@@ -11,7 +11,7 @@ import io.quarkus.runtime.StartupEvent;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @ApplicationScoped
 public class AppBoot {

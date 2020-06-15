@@ -11,7 +11,7 @@ import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @Entity
 @Table(name = "speaker")

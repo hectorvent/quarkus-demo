@@ -8,7 +8,7 @@ import org.eclipse.microprofile.health.Readiness;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @Readiness
 @ApplicationScoped

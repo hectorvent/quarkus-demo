@@ -21,7 +21,7 @@ import org.jboss.logging.Logger;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @Path("/speaker")
 @Produces("application/json")
@@ -64,6 +64,7 @@ public class SpeakerResource {
         }
 
         entity.name = speaker.name;
+        entity.persist();
 
         return entity;
     }

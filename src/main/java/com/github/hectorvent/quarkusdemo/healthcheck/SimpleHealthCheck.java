@@ -8,7 +8,7 @@ import org.eclipse.microprofile.health.Liveness;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @Liveness
 @ApplicationScoped

@@ -15,7 +15,7 @@ import org.jboss.logging.Logger;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 @ApplicationScoped
 public class CoffeeRepositoryService {

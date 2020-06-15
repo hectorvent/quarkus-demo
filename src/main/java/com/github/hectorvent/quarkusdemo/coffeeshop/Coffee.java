@@ -2,7 +2,7 @@ package com.github.hectorvent.quarkusdemo.coffeeshop;
 
 /**
  *
- * @author Héctor Ventura <hectorvent@gmail.com>
+ * @author Hector Ventura <hectorvent@gmail.com>
  */
 public class Coffee {
 
