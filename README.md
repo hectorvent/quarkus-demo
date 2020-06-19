@@ -17,4 +17,4 @@ A small Quarkus demo, that shows how to implement resilient microservices using 
 * **Quarkus**
 * **MariaDB**
 * **Docker**
-* **jaeger**
+* **Jaeger**
