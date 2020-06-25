@@ -1,4 +1,5 @@
 # Quarkus DEMO
+![Build Demo](https://github.com/hectorvent/quarkus-demo/workflows/Build%20Demo/badge.svg)
 
 > Note: This is just an example of how add some stuff to a microservice based on Quarkus.
 
