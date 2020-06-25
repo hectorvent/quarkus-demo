@@ -1,5 +1,7 @@
 # Quarkus DEMO
 
+> Note: This is just an example of how add some stuff to a microservice based on Quarkus.
+
 Quarkus is a Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the
 best of breed Java libraries and standards.
 
